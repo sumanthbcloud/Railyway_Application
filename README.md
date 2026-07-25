@@ -1,7 +1,8 @@
 
 ### Project Architecture: 
 
-![Railway-Ticket-Booking-Application-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/af783756-252a-4ad4-9f03-d44731db7927)
+<img width="1420" height="1108" alt="image" src="https://github.com/user-attachments/assets/6222e2b2-a5dc-4154-8464-1adb280e664f" />
+
 
 
 **Deploying Railway Ticket Booking Application on AWS EKS using modern DevOps tools and best practices. This Project Showcases the deployment of frontend and backend microservices on AWS (Elastic Kubernetes Service). fully automated using Jenkins pipelines, Helm, Argocd and Terraform.**
